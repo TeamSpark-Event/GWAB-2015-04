@@ -3,6 +3,27 @@
 		<i class="fa fa-book"></i>
 		Описание
 	</h2>
-	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tempus urna a cursus pulvinar. Nunc efficitur posuere porta. Phasellus hendrerit, dolor et aliquet tempor, nibh dui semper nisi, at vehicula tortor quam at leo. Vivamus sit amet vulputate ante. Curabitur posuere vestibulum augue non tristique. Suspendisse in metus ac quam interdum condimentum at non quam. Vestibulum vestibulum massa quam, sed gravida lacus facilisis et. Nullam vestibulum aliquet mauris ut suscipit. Nulla dictum blandit dapibus. Proin nec condimentum urna. Donec consectetur, nulla eu vehicula lacinia, nibh odio scelerisque leo, in sodales risus arcu ut odio. Aenean dapibus dignissim lorem quis rhoncus. Aliquam in metus dui.</p>
-	<p>Vivamus odio nulla, pretium in semper sit amet, commodo a felis. Vestibulum viverra quam odio. Sed vel dignissim lectus. Suspendisse pellentesque sem id efficitur ultricies. Nam eros libero, porttitor in luctus lobortis, lobortis sed velit. Proin non tincidunt ante. Ut et turpis dui. Ut facilisis elit efficitur, suscipit est nec, ullamcorper lacus.</p>
+	<p>
+		25 апреля 2015 года мы организовываем Global Windows Azure Bootcamp в Киеве. Участие в нем бесплатное, но обязательна регистрация. Так что я попрошу всех заполнить короткую форму внизу страницы.
+	</p>
+	<p>
+		Основная идея данного мероприятия - собрать людей, который уже имеют опыт Windows Azure и поговорить на тему разных сценариев использования облачной платформы Microsoft. Мы расскажем какие задачи можно решать при помощи Windows Azure, с какими трудностями можно столкнуться и как их преодолеть. Также мы поделимся историями из жизни существующих Windows Azure проектов, расскажем как они развиваются. В общем - приходите, будет очень интересно.
+	</p>
+	<p>
+		Сейчас окончательная программа мероприятия формируется, но у нас точно планируются такие темы как:
+		<ul class="list-group">
+			<li class="list-group-item">
+				<i class="fa fa-cloud"></i>
+				Дизайн сессия. Обсуждения архитектурных решений для Azure проектов.
+			</li>
+			<li class="list-group-item">
+				<i class="fa fa-cloud"></i>
+				WebSites, Cloud Services, Virtual Machines - что выбрать для проекта?
+			</li>
+			<li class="list-group-item">
+				<i class="fa fa-cloud"></i>
+				Ой-вей. Как починить приложение если что-то пошло не так.
+			</li>
+		</ul>
+	</p>
 </div>
