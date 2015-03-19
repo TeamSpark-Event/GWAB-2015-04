@@ -1,0 +1,36 @@
+<div>
+	<h2>
+		<i class="fa fa-user-plus"></i>
+		Регистрация
+	</h2>
+	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tempus urna a cursus pulvinar. Nunc efficitur posuere porta. Phasellus hendrerit, dolor et aliquet tempor, nibh dui semper nisi, at vehicula tortor quam at leo. Vivamus sit amet vulputate ante. Curabitur posuere vestibulum augue non tristique. Suspendisse in metus ac quam interdum condimentum at non quam. Vestibulum vestibulum massa quam, sed gravida lacus facilisis et. Nullam vestibulum aliquet mauris ut suscipit. Nulla dictum blandit dapibus. Proin nec condimentum urna. Donec consectetur, nulla eu vehicula lacinia, nibh odio scelerisque leo, in sodales risus arcu ut odio. Aenean dapibus dignissim lorem quis rhoncus. Aliquam in metus dui.</p>
+	<p>Vivamus odio nulla, pretium in semper sit amet, commodo a felis. Vestibulum viverra quam odio. Sed vel dignissim lectus. Suspendisse pellentesque sem id efficitur ultricies. Nam eros libero, porttitor in luctus lobortis, lobortis sed velit. Proin non tincidunt ante. Ut et turpis dui. Ut facilisis elit efficitur, suscipit est nec, ullamcorper lacus.</p>
+	<form method="post" action="/" class="form-horizontal">
+		<div class="form-group">
+			<label for="tbFirstName" class="col-sm-1 control-label">Имя</label>
+			<div class="col-sm-11">
+				<input type="text" class="form-control" id="tbFirstName" name="tbFirstName" placeholder="Имя" />
+			</div>
+		</div>
+		<div class="form-group">
+			<label for="tbLastName" class="col-sm-1 control-label">Фамилия</label>
+			<div class="col-sm-11">
+				<input type="text" class="form-control" id="tbLastName" name="tbLastName" placeholder="Фамилия" />
+			</div>
+		</div>
+		<div class="form-group">
+			<label for="tbEmail" class="col-sm-1 control-label">EMail</label>
+			<div class="col-sm-11">
+				<input type="text" class="form-control" id="tbEmail" name="tbEmail" placeholder="EMail" />
+			</div>
+		</div>
+		<div class="form-group">
+			<div class="col-sm-offset-1 col-sm-11">
+				<button type="submit" class="btn btn-success">
+					<span class="glyphicon glyphicon-check" aria-hidden="true"></span>
+					Зарегистрироваться
+				</button>
+			</div>
+		</div>
+	</form>
+</div>
