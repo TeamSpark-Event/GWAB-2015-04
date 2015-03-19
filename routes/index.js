@@ -1,5 +1,11 @@
+var path = require('path');
+var uuid = require('uuid');
+var minify = require('html-minifier').minify;
+
 var express = require('express');
 var router = express.Router();
+
+var dataStorage = require(path.join(__dirname, '../services/DataStorage'));
 
 router.get('/', function(req, res) {
   res.render('index', {
