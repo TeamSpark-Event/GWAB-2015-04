@@ -1,10 +1,8 @@
 var nodePromise = require("node-promise");
 var Promise = nodePromise.Promise;
 
-var nconf = require('nconf');
-
 var azure = require('azure-storage');
-var tableService = azure.createTableService(nconf.get('STORAGE_ACCOUNT_NAME'), nconf.get('STORAGE_ACCOUNT_KEY'));
+var tableService = azure.createTableService();
 
 var service = {};
 
