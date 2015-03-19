@@ -3,6 +3,26 @@
 		<i class="fa fa-building-o"></i>
 		Партнеры
 	</h2>
-	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tempus urna a cursus pulvinar. Nunc efficitur posuere porta. Phasellus hendrerit, dolor et aliquet tempor, nibh dui semper nisi, at vehicula tortor quam at leo. Vivamus sit amet vulputate ante. Curabitur posuere vestibulum augue non tristique. Suspendisse in metus ac quam interdum condimentum at non quam. Vestibulum vestibulum massa quam, sed gravida lacus facilisis et. Nullam vestibulum aliquet mauris ut suscipit. Nulla dictum blandit dapibus. Proin nec condimentum urna. Donec consectetur, nulla eu vehicula lacinia, nibh odio scelerisque leo, in sodales risus arcu ut odio. Aenean dapibus dignissim lorem quis rhoncus. Aliquam in metus dui.</p>
-	<p>Vivamus odio nulla, pretium in semper sit amet, commodo a felis. Vestibulum viverra quam odio. Sed vel dignissim lectus. Suspendisse pellentesque sem id efficitur ultricies. Nam eros libero, porttitor in luctus lobortis, lobortis sed velit. Proin non tincidunt ante. Ut et turpis dui. Ut facilisis elit efficitur, suscipit est nec, ullamcorper lacus.</p>
+	<ul class="list-group">
+		<li class="list-group-item row">
+			<div class="col-sm-3 text-center">
+				<a target="_blank" href="http://www.microsoft.com/uk-ua/default.aspx">
+					<img src="https://azureua.blob.core.windows.net/logo/2015-03/mslogo.png" />
+				</a>
+			</div>
+			<div class="col-sm-9">
+				Заснована в 1975 році корпорація Microsoft є визнаним світовим лідером у галузі розробки програмного забезпечення, а також у наданні послуг та рішень, які допомагають людям та компаніям повністю реалізувати свій потенціал. З 2003 року в Україні працює компанія «Майкрософт Україна», до завдань якої входить розвиток ринку програмного забезпечення, а також впровадження і локалізація новітніх технологій на території Україні. Додаткову інформацію про компанію та продукти Microsoft можна знайти на веб-сайті Microsoft www.microsoft.ua.
+			</div>
+		</li>
+		<li class="list-group-item row">
+			<div class="col-sm-3 text-center">
+				<a target="_blank" href="https://it-community.in.ua/">
+					<img src="https://azureua.blob.core.windows.net/logo/2015-03/it-community.in.ua.png" />
+				</a>
+			</div>
+			<div class="col-sm-9">
+				Проект «ИТ сообщество Украины» основан в начале 2014 года c целью создания ресурса, на котором ИТ-специалисты разного уровня смогут получить актуальную информацию о различных продуктах, а также особенностях их конфигурирования. На данный момент сообщество поддерживается усилиями 10-ти авторов, которые представляют различные направления информационных технологий. Это дает возможность проекту охватить много направлений, что в конечном итоге будет более интересно читателю.
+			</div>
+		</li>
+	</ul>
 </div>

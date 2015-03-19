@@ -3,6 +3,10 @@
 		<i class="fa fa-map-marker"></i>
 		Локация
 	</h2>
-	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tempus urna a cursus pulvinar. Nunc efficitur posuere porta. Phasellus hendrerit, dolor et aliquet tempor, nibh dui semper nisi, at vehicula tortor quam at leo. Vivamus sit amet vulputate ante. Curabitur posuere vestibulum augue non tristique. Suspendisse in metus ac quam interdum condimentum at non quam. Vestibulum vestibulum massa quam, sed gravida lacus facilisis et. Nullam vestibulum aliquet mauris ut suscipit. Nulla dictum blandit dapibus. Proin nec condimentum urna. Donec consectetur, nulla eu vehicula lacinia, nibh odio scelerisque leo, in sodales risus arcu ut odio. Aenean dapibus dignissim lorem quis rhoncus. Aliquam in metus dui.</p>
-	<p>Vivamus odio nulla, pretium in semper sit amet, commodo a felis. Vestibulum viverra quam odio. Sed vel dignissim lectus. Suspendisse pellentesque sem id efficitur ultricies. Nam eros libero, porttitor in luctus lobortis, lobortis sed velit. Proin non tincidunt ante. Ut et turpis dui. Ut facilisis elit efficitur, suscipit est nec, ullamcorper lacus.</p>
+	<p>Киев, улица Жилянская 75, Microsoft Ukraine</p>
+	<p>
+		<a target="_blank" href="https://www.here.com/ukraine/kiev/street-square/zhylianska-vulytsia-75--loc-dmVyc2lvbj0xO3RpdGxlPVpoeWxpYW5za2ErdnVseXRzaWElMkMrNzU7bGF0PTUwLjQzOTA0MTEzNzY5NTMxO2xvbj0zMC40OTg4MDAyNzc3MDk5NjtzdHJlZXQ9Wmh5bGlhbnNrYSt2dWx5dHNpYTtob3VzZT03NTtjaXR5PUtpZXY7Y291bnRyeT1VS1I7ZGlzdHJpY3Q9SG9sb3NpaXZza3lpK3JhaW9uO3N0YXRlPUtpZXY7Y2F0ZWdvcnlJZD1idWlsZGluZztzb3VyY2VTeXN0ZW09aW50ZXJuYWw7bmxhdD01MC40MzkxMDk4MDIyNDYwOTQ7bmxvbj0zMC40OTkyMjk0MzExNTIzNDQ?msg=Zhylianska%20vulytsia,%2075&map=50.43904,30.4988,16,normal">
+			схема проезда
+		</a>
+	</p>
 </div>
