@@ -4,52 +4,55 @@
 		Регистрация
 	</h2>
 	<p>
-		Зарегистрироваться для участия в Global Windows Azure Bootcamp можно, используя форму ниже.
+		Регистрация закрыта. Ожидаем всех участников 25 апреля 2015 на GWAB 2015 Kyiv.
 	</p>
-	<p>
-		Пожалуйста, заполняйте форму правильными данными, чтобы мы могли с вами связаться в случае необходимости и подтвердить ваше участие.
-	</p>
+	<!--<p>-->
+		<!--Зарегистрироваться для участия в Global Windows Azure Bootcamp можно, используя форму ниже.-->
+	<!--</p>-->
+	<!--<p>-->
+		<!--Пожалуйста, заполняйте форму правильными данными, чтобы мы могли с вами связаться в случае необходимости и подтвердить ваше участие.-->
+	<!--</p>-->
 
-	{{#errorMessage}}
-		<div class="alert alert-danger" role="alert">
-			{{ errorMessage }}
-		</div>
-	{{/errorMessage}}
-	{{#isShowRegistrationForm}}
-		<form method="post" action="/" class="form-horizontal">
-		<div class="form-group">
-			<label for="tbFirstName" class="col-sm-1 control-label">Имя</label>
-			<div class="col-sm-11">
-				<input type="text" class="form-control" id="tbFirstName" name="tbFirstName" placeholder="Имя" value="{{ firstName }}" />
-			</div>
-		</div>
-		<div class="form-group">
-			<label for="tbLastName" class="col-sm-1 control-label">Фамилия</label>
-			<div class="col-sm-11">
-				<input type="text" class="form-control" id="tbLastName" name="tbLastName" placeholder="Фамилия" value="{{ lastName }}" />
-			</div>
-		</div>
-		<div class="form-group">
-			<label for="tbEmail" class="col-sm-1 control-label">EMail</label>
-			<div class="col-sm-11">
-				<input type="text" class="form-control" id="tbEmail" name="tbEmail" placeholder="EMail" value="{{ email }}" />
-			</div>
-		</div>
-		<div class="form-group">
-			<div class="col-sm-offset-1 col-sm-11">
-				<button type="submit" class="btn btn-success">
-					<span class="glyphicon glyphicon-check" aria-hidden="true"></span>
-					Зарегистрироваться
-				</button>
-			</div>
-		</div>
-	</form>
-	{{/isShowRegistrationForm}}
-	{{^isShowRegistrationForm}}
-		{{^errorMessage}}
-			<div class="alert alert-success" role="alert">
-				Регистрация прошла успешно.
-			</div>
-		{{/errorMessage}}
-	{{/isShowRegistrationForm}}
+	<!--{{#errorMessage}}-->
+		<!--<div class="alert alert-danger" role="alert">-->
+			<!--{{ errorMessage }}-->
+		<!--</div>-->
+	<!--{{/errorMessage}}-->
+	<!--{{#isShowRegistrationForm}}-->
+		<!--<form method="post" action="/" class="form-horizontal">-->
+		<!--<div class="form-group">-->
+			<!--<label for="tbFirstName" class="col-sm-1 control-label">Имя</label>-->
+			<!--<div class="col-sm-11">-->
+				<!--<input type="text" class="form-control" id="tbFirstName" name="tbFirstName" placeholder="Имя" value="{{ firstName }}" />-->
+			<!--</div>-->
+		<!--</div>-->
+		<!--<div class="form-group">-->
+			<!--<label for="tbLastName" class="col-sm-1 control-label">Фамилия</label>-->
+			<!--<div class="col-sm-11">-->
+				<!--<input type="text" class="form-control" id="tbLastName" name="tbLastName" placeholder="Фамилия" value="{{ lastName }}" />-->
+			<!--</div>-->
+		<!--</div>-->
+		<!--<div class="form-group">-->
+			<!--<label for="tbEmail" class="col-sm-1 control-label">EMail</label>-->
+			<!--<div class="col-sm-11">-->
+				<!--<input type="text" class="form-control" id="tbEmail" name="tbEmail" placeholder="EMail" value="{{ email }}" />-->
+			<!--</div>-->
+		<!--</div>-->
+		<!--<div class="form-group">-->
+			<!--<div class="col-sm-offset-1 col-sm-11">-->
+				<!--<button type="submit" class="btn btn-success">-->
+					<!--<span class="glyphicon glyphicon-check" aria-hidden="true"></span>-->
+					<!--Зарегистрироваться-->
+				<!--</button>-->
+			<!--</div>-->
+		<!--</div>-->
+	<!--</form>-->
+	<!--{{/isShowRegistrationForm}}-->
+	<!--{{^isShowRegistrationForm}}-->
+		<!--{{^errorMessage}}-->
+			<!--<div class="alert alert-success" role="alert">-->
+				<!--Регистрация прошла успешно.-->
+			<!--</div>-->
+		<!--{{/errorMessage}}-->
+	<!--{{/isShowRegistrationForm}}-->
 </div>
